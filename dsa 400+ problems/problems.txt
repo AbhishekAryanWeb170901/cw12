@@ -1,5 +1,6 @@
-Serial
-No. Questions
+#Array
+
+
 1 Reverse the array (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
 2 Find the maximum and minimum element in an array
 (https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
@@ -21,11 +22,7 @@ sorting algo (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-
 10 Minimum no. of Jumps to reach end of an array
 (https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 11 find duplicate in an array of N+1 Integers (https://leetcode.com/problems/find-the-duplicate-number/)
-Topics (/) / Array
-450 DSA Cracker
--
-Serial
-No. Questions
+
 12 Merge 2 sorted arrays without using Extra space.
 (https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 13 Kadane's Algo [V.V.V.V.V IMP]
@@ -54,9 +51,7 @@ n/k " times. (https://leetcode.com/problems/majority-element-ii/)
 (https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/)
 27 Find whether an array is a subset of another array
 (https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
--
-Serial
-No. Questions
+
 28 Find the triplet that sum to a given value
 (https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)
 29 Trapping Rain water problem
@@ -75,8 +70,6 @@ No. Questions
 (https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
 36 Median of 2 sorted arrays of different size (https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
 
-Serial
-No. Questions
 1 Rat in a maze Problem (https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 2 Printing all solutions in N-Queen Problem (https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/)
 3 Word Break Problem using Backtracking
@@ -91,11 +84,11 @@ No. Questions
 11 Find shortest safe route in a path with landmines
 (https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/)
 12 Combinational Sum (https://practice.geeksforgeeks.org/problems/combination-sum/0)
-Topics (/) / Backtracking
-450 DSA Cracker
--
-Serial
-No. Questions
+
+
+
+# Backtracking
+
 13 Find Maximum number possible by doing at-most K swaps
 (https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0)
 14 Print all permutations of a string
@@ -116,9 +109,7 @@ No. Questions
 1introduction-and-array-implementation/)
 22 Implement 2 stack in an array
 (https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
--
-Serial
-No. Questions
+
 1 level order traversal (https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 2 Reverse Level Order traversal
 (https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
